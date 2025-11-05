@@ -41,5 +41,4 @@ Ma spécialité : développement d’applications desktop, scripts d’automatis
 Pour collaborations, propositions ou questions :  
  **personnelc91@gmail.com**  
  GitHub : [github.com/VIRAX](https://github.com/Paparael) 
-📧 **c91@gmail.com**  
-💼 GitHub : [github.com/VIRAX](https://github.com/VIRAX)
+
