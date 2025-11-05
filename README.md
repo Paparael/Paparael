@@ -1,39 +1,45 @@
-# VIRAX 👋
+# VIRAX | Développeur Logiciel
 
-💻 **Développeur logiciel indépendant — Python & C**  
-Je conçois des outils logiciels performants, fiables et originaux. Ma démarche : optimisation rigoureuse, code propre et solutions pragmatiques prêtes pour la production. Mes projets actuels sont en développement privé et seront publiés quand ils seront prêts.
+ **Développeur Logiciel Indépendant — Python & C**  
+Je conçois des outils logiciels performants, fiables et élégants, où **la performance, la maintenabilité et l’expérience utilisateur** sont au cœur de chaque projet.  
+Ma spécialité : développement d’applications desktop, scripts d’automatisation et optimisation logicielle avancée.
 
 ---
 
-## 🛠 Compétences principales
+##  Compétences & Stack Technique
 
-- **Langages :** Python · C  
-- **Domaines :** outils utilitaires, automatisation, optimisation, logiciels desktop  
-- **Qualités :** code propre, performance, fiabilité, soin apporté à l’architecture
-
+### Langages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Domaines d’Excellence
+-  **Développement Desktop :** Applications natives et outils utilitaires  
+-  **Automatisation :** Scripts système et workflows optimisés  
+-  **Optimisation :** Analyse de performance, algorithmes efficaces  
+-  **Architecture Logicielle :** Conceptions modulaires et code maintenable
+
+### Qualités & Méthodologie
+![Code Quality](https://img.shields.io/badge/Code%20Quality-Industrie%20Grade-brightgreen?style=for-the-badge)
+![Architecture](https://img.shields.io/badge/Architecture-Scalable%20%26%20Maintainable-blue?style=for-the-badge)
+![Performance](https://img.shields.io/badge/Performance-Optimized-important?style=for-the-badge)
+
+- Rigueur architecturale et code propre  
+- Solutions pragmatiques et efficaces  
+- Optimisation maximale sans compromis sur la lisibilité  
 
 ---
 
-## 🔒 Projets & Confidentialité
+##  Objectifs Professionnels
 
-Les outils que je développe sont actuellement **privés** ou en phase de préparation. Quand ils seront prêts et correctement documentés, je les publierai ici avec :
-- description claire,
-- instructions d’utilisation,
-- code source et licences adaptées.
+- Créer des logiciels performants et fiables dépassant les standards actuels  
+- Fournir des solutions pratiques et modulaires pour utilisateurs et développeurs  
+- Innover tout en respectant la qualité, la maintenabilité et la performance  
 
 ---
-
-## 📫 Contact professionnel
 
 Pour collaborations, propositions ou questions :  
-📧 **personnelc91@gmail.com**
-
----
-
-## 🎯 Objectif professionnel
-
-Fournir des solutions logicielles robustes qui dépassent les standards en terme de performance et d’efficacité. J’accorde une grande importance à la qualité du code, à la maintenabilité et à l’expérience utilisateur.
-
----
+ **personnelc91@gmail.com**  
+ GitHub : [github.com/VIRAX](https://github.com/Paparael) 
+📧 **c91@gmail.com**  
+💼 GitHub : [github.com/VIRAX](https://github.com/VIRAX)
